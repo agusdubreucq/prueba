@@ -1,2 +1,2 @@
-def main():
-    print("commit 1 main")
+def segunda():
+    print("commit 1 segunda")
